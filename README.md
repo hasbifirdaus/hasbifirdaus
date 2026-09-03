@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! I'm Hasbi Firdaus Fauzun👋
+
+![Hasbi Firdaus Fauzun](img/github-header-1.jpg)
 
 <!--
 **hasbifirdaus/hasbifirdaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Haii](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ4YzhnNzJpbGY2eHEzY2FwdGl5ODd5aDFleWV2MXFjYmNxY2RtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pjJP2ED1c4z960hFG8/giphy.gif)
