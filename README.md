@@ -11,4 +11,4 @@ I'm passionate about building things for the web and currently leveling up my sk
 
 #### Connect With Me
 
-[![https://www.instagram.com/_hasbifirdaus](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) [![https://www.linkedin.com/in/hasbifirdausfauzun/](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_hasbifirdaus) [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hasbifirdausfauzun/)
